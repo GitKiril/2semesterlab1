@@ -1,0 +1,15 @@
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\bin\Debug\net5.0\task3.exe
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\bin\Debug\net5.0\task3.deps.json
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\bin\Debug\net5.0\task3.runtimeconfig.json
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\bin\Debug\net5.0\task3.runtimeconfig.dev.json
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\bin\Debug\net5.0\task3.dll
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\bin\Debug\net5.0\ref\task3.dll
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\bin\Debug\net5.0\task3.pdb
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\task3.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\task3.AssemblyInfo.cs
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\task3.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\task3.dll
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\ref\task3.dll
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\task3.pdb
+D:\Учеба\2 курс\2 Семестр\ООп\2semesterlab1\task3\task3\obj\Debug\net5.0\task3.genruntimeconfig.cache
